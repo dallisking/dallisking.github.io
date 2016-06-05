@@ -1,36 +1,20 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: Bio
+tags: [bio]
+date: 2016-06-05
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center><b>Dallis King</b> is a 23 year old educator, artist and programmer.</center>
+![Secret Body](http://i.imgur.com/sPVlUT8.jpg) 
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## Current Work
+I currently work as the Director of Education at the Toronto-based startup <a href="http://www.hatchcanada.com"><b>Hatch Canada</b></a> which focuses on teaching children aged 7-17 programming. I'm developping self-paced, progressive curriculums to get young people excited about the ability to create with code. Much of what I'm hoping to write here will be based around my experiments in a classroom filled with alternate-learning stratagies.
 
-## Preview
+## Past Work
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+Previously, I've worked creating art through code. Some of my past projects can be found in the <a href="/projects">Projects</a> section of this website.
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+## Contact Me
 
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+If you'd like to talk you can always <a href="mailto:{{ site.email }}?subject=Hello!">email</a> me!
