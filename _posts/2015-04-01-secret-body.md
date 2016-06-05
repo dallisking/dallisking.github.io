@@ -12,7 +12,7 @@ tag:
 comments: true
 ---
 
-![Moon Homepage](assets/img/logo.png)    
+![Moon Homepage](https://raw.githubusercontent.com/itsonlydallis/itsonlydallis.github.io/master/assets/img/SecretBody/pic4.jpg)    
     
 <center><b>Secret Body</b> is an interactive art installation based around the idea of measuring and displaying human emotion
 </center>
