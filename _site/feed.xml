@@ -1,6 +1,4 @@
-
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2016-06-05T14:25:53-04:00</updated><id>http://localhost:4000/</id><title>Dallis King</title><subtitle>Dallis Is Cool</subtitle><entry><title>Secret Body</title><link href="http://localhost:4000/secret-body/" rel="alternate" type="text/html" title="Secret Body" /><published>2015-04-01T00:00:00-04:00</published><updated>2015-04-01T00:00:00-04:00</updated><id>http://localhost:4000/secret-body</id><content type="html" xml:base="http://localhost:4000/secret-body/">&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/itsonlydallis/itsonlydallis.github.io/master/assets/img/SecretBody/pic4.jpg&quot; alt=&quot;Secret Body&quot; /&gt;&lt;/p&gt;
-
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator><link href="http://www.dallisking.ca/feed.xml" rel="self" type="application/atom+xml" /><link href="http://www.dallisking.ca/" rel="alternate" type="text/html" /><updated>2016-06-05T18:32:47-04:00</updated><id>http://www.dallisking.ca/</id><title>Dallis King</title><subtitle>Dallis Is Cool</subtitle><entry><title>Secret Body</title><link href="http://www.dallisking.ca/secret-body/" rel="alternate" type="text/html" title="Secret Body" /><published>2015-04-01T00:00:00-04:00</published><updated>2015-04-01T00:00:00-04:00</updated><id>http://www.dallisking.ca/secret-body</id><content type="html" xml:base="http://www.dallisking.ca/secret-body/">&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/itsonlydallis/itsonlydallis.github.io/master/assets/img/SecretBody/pic4.jpg&quot; alt=&quot;Secret Body&quot; /&gt;&lt;/p&gt;
 
 &lt;center&gt;&lt;b&gt;Secret Body&lt;/b&gt; is an interactive art installation based around the idea of measuring and displaying human emotion
 &lt;/center&gt;
@@ -48,4 +46,58 @@
   &lt;li&gt;&lt;b&gt;&lt;a href=&quot;https://twitter.com/karisauras&quot;&gt; Samantha Puder &lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;&lt;a href=&quot;https://twitter.com/anna_pap2&quot;&gt; Anna Papazian &lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;&lt;a href=&quot;https://twitter.com/Dallis_King&quot;&gt; Dallis King &lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><category term="biometrics" /><category term="art" /><category term="installation" /><category term="interactive" /><summary>Secret Body is an interactive art installation based around the idea of measuring and displaying human emotion.</summary></entry></feed>
+&lt;/ul&gt;</content><category term="biometrics" /><category term="art" /><category term="installation" /><category term="interactive" /><summary>Secret Body is an interactive art installation based around the idea of measuring and displaying human emotion.</summary></entry><entry><title>Secret Body</title><link href="http://www.dallisking.ca/illustrious-silence/" rel="alternate" type="text/html" title="Secret Body" /><published>2015-04-01T00:00:00-04:00</published><updated>2015-04-01T00:00:00-04:00</updated><id>http://www.dallisking.ca/illustrious-silence</id><content type="html" xml:base="http://www.dallisking.ca/illustrious-silence/">![Secret Body](https://raw.githubusercontent.com/itsonlydallis/itsonlydallis.github.io/master/assets/img/SecretBody/pic4.jpg)    
+    
+&lt;center&gt;&lt;b&gt;Secret Body&lt;/b&gt; is an interactive art installation based around the idea of measuring and displaying human emotion
+&lt;/center&gt;
+
+There exists a section in every person that is tucked away purposefully due to fear of social stigma. &lt;b&gt;Secret Body&lt;/b&gt; is an interactive art installation that explores those themes of stigma and social interaction. The piece attempts to display human emotion through data visualization and measure emotion through affective science methods. The piece uses bioinformatic data to create a light pattern within ten human-shaped models, and uses the same data to create an interactive platform between the piece and the audience.  
+      
+## Motivation
+  
+Secret Body aims to bring to light the stories of people, the stories that are often kept hidden and dark inside of us. We wanted to take these stories and display them through colours and lights to begin discussions on mental illness and emotion. We seeked to humanize the data, and make it subject to empathy and recognition. Our hope is that by abstracting emotions in a visual form we can also abstract out the stigma, challenging peoples cognitive biases and encouraging them to develop a more empathetic approach.
+
+## Methodology and Process
+
+We created 10 models - 5 females and 5 males - out of clear tape and paper mache. Each model has their own personal backstory as given to us by a volunteer willing to speak about a difficult and emotional story. While speaking with us we recorded the volunteer&#39;s bioinformatic data in the form of GSR and heart rate. The volunteer also filled out a personal self assesment periodically throughout the interview. We developed algorithms to turn this numerical data into RGB values which we used to colour the LEDs inside of the clear models. As such, each model has their own unique light pattern that reflects our volunteer&#39;s emotional state while recolling an emotional story.
+
+Beyond this, the final versions of each model are equipped with their own GSR and heart rate sensors. Users viewing the piece are encouraged to interact with it and place thier hand on these sensors. The sensors read the users current emotional state and allow the models lights to change accordingly. This is a metaphor for real-life human interaction, in which the emotional state of one person affects those around them. In the absence of interaction for certain period of time, the model returns to its base emotional state.
+
+## Research
+
+The measurement of human emotion is extremely complex. We attempted to break it down into measurable steps that we can combine to form one cohesive example of emotion to project into our sculptures.
+
+Emotion is most commonly and simply broken down into arousal/valence charts. This chart breaks down human emotion into four sectors, dividing them by a persons arousal and valence scores - with valence referring to the basic emotional state of a person (positive or negative) and arousal referring to the urgency of that basic state.
+
+![Arousal Valence](https://wiki.eecs.yorku.ca/course_archive/2014-15/Y/4700/_media/projects:g1:arousalvalence.jpg?cache=)      
+
+&lt;b&gt;Arousal&lt;/b&gt; can be measured exclusively with GSR. A high GSR (&gt;25 KOHMS) indicates low arousal while a low GSR (&lt;25 KOHMS) indicates high arousal.
+
+&lt;b&gt;Valence&lt;/b&gt; is much more complicated. It can be determined from a combination of heart rate, temperature, self assessment and observation of the subject.
+
+## Final Result
+
+
+
+
+
+
+
+
+&lt;figure class=&quot;third&quot;&gt;
+    
+    &lt;a href=&quot;https://raw.githubusercontent.com/itsonlydallis/itsonlydallis.github.io/master/assets/img/SecretBody/pic1.jpg&quot;&gt;&lt;img src=&quot;https://raw.githubusercontent.com/itsonlydallis/itsonlydallis.github.io/master/assets/img/SecretBody/pic1.jpg&quot; alt=&quot;&quot;&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;https://raw.githubusercontent.com/itsonlydallis/itsonlydallis.github.io/master/assets/img/SecretBody/pic2.jpg&quot;&gt;&lt;img src=&quot;https://raw.githubusercontent.com/itsonlydallis/itsonlydallis.github.io/master/assets/img/SecretBody/pic2.jpg&quot; alt=&quot;&quot;&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;https://wiki.eecs.yorku.ca/course_archive/2014-15/Y/4700/_media/projects:g1:internal.jpg?cache=&quot;&gt;&lt;img src=&quot;https://wiki.eecs.yorku.ca/course_archive/2014-15/Y/4700/_media/projects:g1:internal.jpg?cache=&quot; alt=&quot;&quot;&gt;&lt;/a&gt;
+    
+    &lt;figcaption&gt;Photographs of Secret Body&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+
+## The Creative Team
+* &lt;b&gt;&lt;a href=&quot;https://twitter.com/thisisnichie&quot;&gt; Nichie Enriquez &lt;/a&gt;&lt;/b&gt; 
+* &lt;b&gt;&lt;a href=&quot;https://twitter.com/karisauras&quot;&gt; Samantha Puder &lt;/a&gt;&lt;/b&gt; 
+* &lt;b&gt;&lt;a href=&quot;https://twitter.com/anna_pap2&quot;&gt; Anna Papazian &lt;/a&gt;&lt;/b&gt;
+* &lt;b&gt;&lt;a href=&quot;https://twitter.com/Dallis_King&quot;&gt; Dallis King &lt;/a&gt;&lt;/b&gt;</content><category term="biometrics" /><category term="art" /><category term="installation" /><category term="interactive" /><summary>Secret Body is an interactive art installation based around the idea of measuring and displaying human emotion.</summary></entry></feed>
