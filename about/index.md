@@ -5,15 +5,14 @@ tags: [bio]
 date: 2016-06-05
 ---
     
-<center><b>Dallis King</b> is a 23 year old educator, artist and programmer.</center>
+<center><b>Dallis King</b> is a 23 year old artist and educator who spends most evenings reading books, drinking tea, and wishing she owned many dogs.</center>
 ![Secret Body](http://i.imgur.com/sPVlUT8.jpg) 
 
 ## Current Work
-I currently work as the Director of Education at the Toronto-based startup <a href="http://www.hatchcanada.com"><b>Hatch Canada</b></a> which focuses on teaching children aged 7-17 programming. I'm developping self-paced, progressive curriculums to get young people excited about the ability to create with code. Much of what I'm hoping to write here will be based around my experiments in a classroom filled with alternate-learning stratagies.
+I currently work at the Toronto-based startup <a href="http://www.hatchcanada.com"><b>Hatch Canada</b></a> which focuses on teaching children aged 7-17 programming through a progessive, self-paced curriculum. My work touches on many different aspects of the company. I've built out large-scale recruitement and onboarding procedures, educational theories, classroom-management strategies and training documents. More recently I've begun to work more closely with the product itself. I develop new features for the learning platform, come up with solutions to stress points, and conduct testing and surveys to ensure that every person using the platform feels comfortable and wildly creative. 
 
 ## Past Work
-
-Previously, I've worked creating art through code. Some of my past projects can be found in the <a href="/projects">Projects</a> section of this website.
+Previously, I've designed and created computational art. Some of my past projects can be found in the <a href="/projects">Projects</a> section of this website.
 
 ## Contact Me
 

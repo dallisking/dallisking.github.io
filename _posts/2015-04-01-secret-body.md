@@ -9,7 +9,7 @@ tag:
 - art
 - installation
 - interactive
-comments: true
+comments: false
 ---
 
 ![Secret Body](https://raw.githubusercontent.com/itsonlydallis/itsonlydallis.github.io/master/assets/img/SecretBody/pic4.jpg)    
@@ -43,12 +43,7 @@ Emotion is most commonly and simply broken down into arousal/valence charts. Thi
 
 ## Final Result
 
-{% capture images %}
-	https://raw.githubusercontent.com/itsonlydallis/itsonlydallis.github.io/master/assets/img/SecretBody/pic1.jpg
-	https://raw.githubusercontent.com/itsonlydallis/itsonlydallis.github.io/master/assets/img/SecretBody/pic2.jpg
-	https://wiki.eecs.yorku.ca/course_archive/2014-15/Y/4700/_media/projects:g1:internal.jpg?cache=
-{% endcapture %}
-{% include gallery images=images caption="Photographs of Secret Body" cols=3 %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8AHiLgkKqNY" frameborder="0"> </iframe>
 
 ## The Creative Team
 * <b><a href="https://twitter.com/thisisnichie"> Nichie Enriquez </a></b> 

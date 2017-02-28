@@ -1,13 +1,14 @@
 # Site
 title:              Dallis King
-bio:                'Educator. Artist. Programmer.'
-description:        "Educator. Artist. Programmer."
+bio:                'Digital Media Artist and Educator'
+description:        "Digital Media Artist and Educator"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
+#url:                http://localhost:4000/ 
 url:                http://www.dallisking.ca
 email:              dallis.m.king@gmail.com
 
@@ -38,10 +39,10 @@ disqus_shortname:   dallisking
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
+email:              dallis.m.king@gmail.com
 twitter:            dallis_king
 facebook:           DallisKing
-github:             itsonlydallis
+#github:            itsonlydallis
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 linkedin:           dallisking
 #xing:              username

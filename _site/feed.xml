@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator><link href="http://www.dallisking.ca/feed.xml" rel="self" type="application/atom+xml" /><link href="http://www.dallisking.ca/" rel="alternate" type="text/html" /><updated>2016-06-05T18:32:47-04:00</updated><id>http://www.dallisking.ca/</id><title>Dallis King</title><subtitle>Dallis Is Cool</subtitle><entry><title>Secret Body</title><link href="http://www.dallisking.ca/secret-body/" rel="alternate" type="text/html" title="Secret Body" /><published>2015-04-01T00:00:00-04:00</published><updated>2015-04-01T00:00:00-04:00</updated><id>http://www.dallisking.ca/secret-body</id><content type="html" xml:base="http://www.dallisking.ca/secret-body/">&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/itsonlydallis/itsonlydallis.github.io/master/assets/img/SecretBody/pic4.jpg&quot; alt=&quot;Secret Body&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator><link href="http://localhost:4000//feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000//" rel="alternate" type="text/html" /><updated>2017-02-27T23:49:38-05:00</updated><id>http://localhost:4000//</id><title>Dallis King</title><subtitle>Digital Media Artist and Educator</subtitle><entry><title>Secret Body</title><link href="http://localhost:4000//secret-body/" rel="alternate" type="text/html" title="Secret Body" /><published>2015-04-01T00:00:00-04:00</published><updated>2015-04-01T00:00:00-04:00</updated><id>http://localhost:4000//secret-body</id><content type="html" xml:base="http://localhost:4000//secret-body/">&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/itsonlydallis/itsonlydallis.github.io/master/assets/img/SecretBody/pic4.jpg&quot; alt=&quot;Secret Body&quot; /&gt;&lt;/p&gt;
 
 &lt;center&gt;&lt;b&gt;Secret Body&lt;/b&gt; is an interactive art installation based around the idea of measuring and displaying human emotion
 &lt;/center&gt;
@@ -29,16 +29,7 @@
 
 &lt;h2 id=&quot;final-result&quot;&gt;Final Result&lt;/h2&gt;
 
-&lt;figure class=&quot;third&quot;&gt;
-    
-    &lt;a href=&quot;https://raw.githubusercontent.com/itsonlydallis/itsonlydallis.github.io/master/assets/img/SecretBody/pic1.jpg&quot;&gt;&lt;img src=&quot;https://raw.githubusercontent.com/itsonlydallis/itsonlydallis.github.io/master/assets/img/SecretBody/pic1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
-    
-    &lt;a href=&quot;https://raw.githubusercontent.com/itsonlydallis/itsonlydallis.github.io/master/assets/img/SecretBody/pic2.jpg&quot;&gt;&lt;img src=&quot;https://raw.githubusercontent.com/itsonlydallis/itsonlydallis.github.io/master/assets/img/SecretBody/pic2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
-    
-    &lt;a href=&quot;https://wiki.eecs.yorku.ca/course_archive/2014-15/Y/4700/_media/projects:g1:internal.jpg?cache=&quot;&gt;&lt;img src=&quot;https://wiki.eecs.yorku.ca/course_archive/2014-15/Y/4700/_media/projects:g1:internal.jpg?cache=&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
-    
-    &lt;figcaption&gt;Photographs of Secret Body&lt;/figcaption&gt;
-&lt;/figure&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/8AHiLgkKqNY&quot; frameborder=&quot;0&quot;&gt; &lt;/iframe&gt;
 
 &lt;h2 id=&quot;the-creative-team&quot;&gt;The Creative Team&lt;/h2&gt;
 &lt;ul&gt;
@@ -46,58 +37,45 @@
   &lt;li&gt;&lt;b&gt;&lt;a href=&quot;https://twitter.com/karisauras&quot;&gt; Samantha Puder &lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;&lt;a href=&quot;https://twitter.com/anna_pap2&quot;&gt; Anna Papazian &lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
   &lt;li&gt;&lt;b&gt;&lt;a href=&quot;https://twitter.com/Dallis_King&quot;&gt; Dallis King &lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><category term="biometrics" /><category term="art" /><category term="installation" /><category term="interactive" /><summary>Secret Body is an interactive art installation based around the idea of measuring and displaying human emotion.</summary></entry><entry><title>Secret Body</title><link href="http://www.dallisking.ca/illustrious-silence/" rel="alternate" type="text/html" title="Secret Body" /><published>2015-04-01T00:00:00-04:00</published><updated>2015-04-01T00:00:00-04:00</updated><id>http://www.dallisking.ca/illustrious-silence</id><content type="html" xml:base="http://www.dallisking.ca/illustrious-silence/">![Secret Body](https://raw.githubusercontent.com/itsonlydallis/itsonlydallis.github.io/master/assets/img/SecretBody/pic4.jpg)    
-    
-&lt;center&gt;&lt;b&gt;Secret Body&lt;/b&gt; is an interactive art installation based around the idea of measuring and displaying human emotion
+&lt;/ul&gt;</content><category term="biometrics" /><category term="art" /><category term="installation" /><category term="interactive" /><summary>Secret Body is an interactive art installation based around the idea of measuring and displaying human emotion.</summary></entry><entry><title>The Illustrious Silence</title><link href="http://localhost:4000//illustrious-silence/" rel="alternate" type="text/html" title="The Illustrious Silence" /><published>2014-04-01T00:00:00-04:00</published><updated>2014-04-01T00:00:00-04:00</updated><id>http://localhost:4000//illustrious-silence</id><content type="html" xml:base="http://localhost:4000//illustrious-silence/">&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/itsonlydallis/itsonlydallis.github.io/master/assets/img/TheIllustriousSilence/title.jpg&quot; alt=&quot;The Illustrious Silence&quot; /&gt;&lt;/p&gt;
+
+&lt;center&gt;&lt;b&gt;The Illustrious Silence&lt;/b&gt; combines my passions of literature and data visualization into a series of coputer-generated images. The end result is a collection of art pieces that are truly a collaberation between myself and the machine.
 &lt;/center&gt;
 
-There exists a section in every person that is tucked away purposefully due to fear of social stigma. &lt;b&gt;Secret Body&lt;/b&gt; is an interactive art installation that explores those themes of stigma and social interaction. The piece attempts to display human emotion through data visualization and measure emotion through affective science methods. The piece uses bioinformatic data to create a light pattern within ten human-shaped models, and uses the same data to create an interactive platform between the piece and the audience.  
-      
-## Motivation
-  
-Secret Body aims to bring to light the stories of people, the stories that are often kept hidden and dark inside of us. We wanted to take these stories and display them through colours and lights to begin discussions on mental illness and emotion. We seeked to humanize the data, and make it subject to empathy and recognition. Our hope is that by abstracting emotions in a visual form we can also abstract out the stigma, challenging peoples cognitive biases and encouraging them to develop a more empathetic approach.
+&lt;h2 id=&quot;motivation&quot;&gt;Motivation&lt;/h2&gt;
 
-## Methodology and Process
+&lt;p&gt;Stories and literature have always played a special role in my life. It’s funny how the feeling that these words give me are not something that I have ever been able to replicate in words of my own. &lt;b&gt;The Illustrious Silence&lt;/b&gt; was built to act as an attempt to visually represent my feelings for some of these words, but evolved into what really became a colaberative project between myself and the computer.&lt;/p&gt;
 
-We created 10 models - 5 females and 5 males - out of clear tape and paper mache. Each model has their own personal backstory as given to us by a volunteer willing to speak about a difficult and emotional story. While speaking with us we recorded the volunteer&#39;s bioinformatic data in the form of GSR and heart rate. The volunteer also filled out a personal self assesment periodically throughout the interview. We developed algorithms to turn this numerical data into RGB values which we used to colour the LEDs inside of the clear models. As such, each model has their own unique light pattern that reflects our volunteer&#39;s emotional state while recolling an emotional story.
+&lt;h2 id=&quot;final-result&quot;&gt;Final Result&lt;/h2&gt;
 
-Beyond this, the final versions of each model are equipped with their own GSR and heart rate sensors. Users viewing the piece are encouraged to interact with it and place thier hand on these sensors. The sensors read the users current emotional state and allow the models lights to change accordingly. This is a metaphor for real-life human interaction, in which the emotional state of one person affects those around them. In the absence of interaction for certain period of time, the model returns to its base emotional state.
+&lt;center&gt;
 
-## Research
-
-The measurement of human emotion is extremely complex. We attempted to break it down into measurable steps that we can combine to form one cohesive example of emotion to project into our sculptures.
-
-Emotion is most commonly and simply broken down into arousal/valence charts. This chart breaks down human emotion into four sectors, dividing them by a persons arousal and valence scores - with valence referring to the basic emotional state of a person (positive or negative) and arousal referring to the urgency of that basic state.
-
-![Arousal Valence](https://wiki.eecs.yorku.ca/course_archive/2014-15/Y/4700/_media/projects:g1:arousalvalence.jpg?cache=)      
-
-&lt;b&gt;Arousal&lt;/b&gt; can be measured exclusively with GSR. A high GSR (&gt;25 KOHMS) indicates low arousal while a low GSR (&lt;25 KOHMS) indicates high arousal.
-
-&lt;b&gt;Valence&lt;/b&gt; is much more complicated. It can be determined from a combination of heart rate, temperature, self assessment and observation of the subject.
-
-## Final Result
-
-
-
-
-
-
-
-
-&lt;figure class=&quot;third&quot;&gt;
-    
-    &lt;a href=&quot;https://raw.githubusercontent.com/itsonlydallis/itsonlydallis.github.io/master/assets/img/SecretBody/pic1.jpg&quot;&gt;&lt;img src=&quot;https://raw.githubusercontent.com/itsonlydallis/itsonlydallis.github.io/master/assets/img/SecretBody/pic1.jpg&quot; alt=&quot;&quot;&gt;&lt;/a&gt;
-    
-    &lt;a href=&quot;https://raw.githubusercontent.com/itsonlydallis/itsonlydallis.github.io/master/assets/img/SecretBody/pic2.jpg&quot;&gt;&lt;img src=&quot;https://raw.githubusercontent.com/itsonlydallis/itsonlydallis.github.io/master/assets/img/SecretBody/pic2.jpg&quot; alt=&quot;&quot;&gt;&lt;/a&gt;
-    
-    &lt;a href=&quot;https://wiki.eecs.yorku.ca/course_archive/2014-15/Y/4700/_media/projects:g1:internal.jpg?cache=&quot;&gt;&lt;img src=&quot;https://wiki.eecs.yorku.ca/course_archive/2014-15/Y/4700/_media/projects:g1:internal.jpg?cache=&quot; alt=&quot;&quot;&gt;&lt;/a&gt;
-    
-    &lt;figcaption&gt;Photographs of Secret Body&lt;/figcaption&gt;
+&lt;figure&gt;
+	&lt;img src=&quot;https://raw.githubusercontent.com/itsonlydallis/itsonlydallis.github.io/master/assets/img/TheIllustriousSilence/pic1.jpg&quot; /&gt;
+	&lt;figcaption&gt;&quot;To A Great Mind, Nothing Is Little&quot;&lt;/figcaption&gt;
+	&lt;figcaption&gt;Sir Arthur Conan Doyle - A Study In Scarlet&lt;/figcaption&gt;
 &lt;/figure&gt;
 
+&lt;figure&gt;
+	&lt;img src=&quot;https://raw.githubusercontent.com/itsonlydallis/itsonlydallis.github.io/master/assets/img/TheIllustriousSilence/pic2.jpg&quot; /&gt;
+	&lt;figcaption&gt;&quot;I Have Never Heard A More Eloquent Silence&quot;&lt;/figcaption&gt;
+	&lt;figcaption&gt;Laurie Halse Anderson - Speak&lt;/figcaption&gt;
+&lt;/figure&gt;
 
-## The Creative Team
-* &lt;b&gt;&lt;a href=&quot;https://twitter.com/thisisnichie&quot;&gt; Nichie Enriquez &lt;/a&gt;&lt;/b&gt; 
-* &lt;b&gt;&lt;a href=&quot;https://twitter.com/karisauras&quot;&gt; Samantha Puder &lt;/a&gt;&lt;/b&gt; 
-* &lt;b&gt;&lt;a href=&quot;https://twitter.com/anna_pap2&quot;&gt; Anna Papazian &lt;/a&gt;&lt;/b&gt;
-* &lt;b&gt;&lt;a href=&quot;https://twitter.com/Dallis_King&quot;&gt; Dallis King &lt;/a&gt;&lt;/b&gt;</content><category term="biometrics" /><category term="art" /><category term="installation" /><category term="interactive" /><summary>Secret Body is an interactive art installation based around the idea of measuring and displaying human emotion.</summary></entry></feed>
+&lt;figure&gt;
+	&lt;img src=&quot;https://raw.githubusercontent.com/itsonlydallis/itsonlydallis.github.io/master/assets/img/TheIllustriousSilence/pic3.jpg&quot; /&gt;
+	&lt;figcaption&gt;&quot;Sometimes I Can Hear My Bones Straining Under The Weight Of All The Lives I&#39;m Not Living.&quot;&lt;/figcaption&gt;
+	&lt;figcaption&gt;Jonathan Safran Foer - Extremely Loud and Inredibly Close&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;https://raw.githubusercontent.com/itsonlydallis/itsonlydallis.github.io/master/assets/img/TheIllustriousSilence/pic4.jpg&quot; /&gt;
+	&lt;figcaption&gt;&quot;We Live In A World Defined By Its Boundaries: You Cannot Travel Faster Than The Speed Of Light. You Must And Will Die. You Cannot Escape These Boundaries. But The Miracle And Hope Of Human Consciousness Is That We Can Still Conceive Of Boundlessness.&quot;&lt;/figcaption&gt;
+	&lt;figcaption&gt;John Green - This Star Won&#39;t Go Out&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/center&gt;
+
+&lt;h2 id=&quot;the-creative-team&quot;&gt;The Creative Team&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;&lt;a href=&quot;https://twitter.com/Dallis_King&quot;&gt; Dallis King &lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><category term="data visualization" /><category term="computer-generated image" /><category term="computational art" /><category term="digital art" /><category term="art" /><category term="books" /><category term="quotes" /><summary>The Illustrious Silence is a series of computer-generated images, visualizing alphabetical data from personally touching pieces of litterature.</summary></entry></feed>
